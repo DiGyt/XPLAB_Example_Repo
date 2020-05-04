@@ -21,8 +21,7 @@ the "light-weightedness" of markdown aims to allow for
 clear reading of the `raw markdown source code`, but at the 
 cost of providing comparatively few format features.
 
-| Short: Markdown does cool formatting things with your text
-using comparatively simple commands. |
+| Short: Markdown does cool formatting things with your text using comparatively simple commands. |
 | --- |
 
 `python
