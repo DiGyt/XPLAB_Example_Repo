@@ -25,8 +25,13 @@ cost of providing comparatively few format features.
 | --- |
 
 ```python
-However, these few simple commands cover most things needed
-for a succesful work with Git, GitHub and other programming-
-related tools.
+
+def further_info():
+  """
+  However, these few simple commands cover most things needed
+  for a succesful work with Git, GitHub and other programming-
+  related tools.
+  """
+  return cool_format
 
 ```
