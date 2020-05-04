@@ -24,9 +24,9 @@ cost of providing comparatively few format features.
 | Short: Markdown does cool formatting things with your text using comparatively simple commands. |
 | --- |
 
-`python
+```python
 However, these few simple commands cover most things needed
 for a succesful work with Git, GitHub and other programming-
 related tools.
 
-`
+```
