@@ -13,7 +13,6 @@ It does markdown things
 > with plain-text-formatting syntax.
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
-
 This means that markdown is a simple markup language,
 i.e. a system that enriches text, so displaying the file 
 can include formatting like the one you see here.
@@ -29,6 +28,6 @@ using comparatively simple commands. |
 `python
 However, these few simple commands cover most things needed
 for a succesful work with Git, GitHub and other programming-
-related tools.
+related tools...
 
 `
