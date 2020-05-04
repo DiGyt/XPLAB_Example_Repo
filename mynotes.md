@@ -28,6 +28,6 @@ using comparatively simple commands. |
 `python
 However, these few simple commands cover most things needed
 for a succesful work with Git, GitHub and other programming-
-related tools...
+related tools.
 
 `
